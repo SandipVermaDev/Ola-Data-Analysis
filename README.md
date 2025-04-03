@@ -55,6 +55,6 @@ cd Ola-Data-Analyst-Project
 - You can access the Excel analysis, SQL queries, and Power BI dashboards from their respective folders.
 
 ## 📬 Contact
-- 📌 LinkedIn: [Sandip Verma](www.linkedin.com/in/sandip-verma-dev)
+- 📌 LinkedIn: [Sandip Verma](https://www.linkedin.com/in/sandip-verma-dev/)
 
 #### If you found this project helpful, consider giving it a ⭐ on GitHub! Your support is greatly appreciated. 🚀✨
