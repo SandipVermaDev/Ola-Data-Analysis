@@ -4,6 +4,14 @@
 
 This project provides an in-depth **data analysis of Ola ride bookings**, focusing on customer behavior, ride patterns, and business performance. Using **SQL, Excel, and Power BI**, we extract valuable insights to help improve operations, enhance customer experience, and optimize revenue generation.
 
+## 📂 Excel File Availability
+
+Due to GitHub's 25MB file size limit, I am unable to upload the full Excel file here. However, you can access it using the link below:
+
+- 🔗 [Download Excel File from Google Drive](https://docs.google.com/spreadsheets/d/1kjPS1tgUMVX6eE-qZVq7tcA7iKkD_AuW/edit?usp=sharing&ouid=100280068005031930228&rtpof=true&sd=true)
+
+Feel free to explore the data and use it for your analysis! 😊🚀
+
 ## 🗃️ Data Dictionary
 
 The dataset includes the following key columns:
