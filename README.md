@@ -49,7 +49,7 @@ The dataset includes the following key columns:
 Follow these steps to clone and explore this project:
 
 ```bash
-git clone https://github.com/SandipVermaDev/Ola-Data-Analyst-Project.git
+git clone https://github.com/SandipVermaDev/Ola-Data-Analysis.git
 cd Ola-Data-Analyst-Project
 ```
 - You can access the Excel analysis, SQL queries, and Power BI dashboards from their respective folders.
